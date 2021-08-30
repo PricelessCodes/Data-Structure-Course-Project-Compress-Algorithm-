@@ -1,2 +1,2 @@
 # Data-structure-course-project
-huffman algorithm coded in C++.
+huffman Compress algorithm coded in C++.

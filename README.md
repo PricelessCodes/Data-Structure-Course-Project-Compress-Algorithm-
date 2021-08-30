@@ -1,2 +1,2 @@
 # Data-structure-course-project
-huffman algorithm
+huffman algorithm coded in C++.
